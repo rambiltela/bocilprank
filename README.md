@@ -1,2 +1,1 @@
-# bocilprank
-bocilprank
+# [bocilprank](https://bocilprank.pages.dev)
